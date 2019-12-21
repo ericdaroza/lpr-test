@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eric/PycharmProjects/LPR_Functions/LPR_Test_Functions/dogsvscats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "/home/eric/PycharmProjects/LPR_Functions/LPR_Test_Functions/dogsvscats-0.001-6conv-basic.model"
